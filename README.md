@@ -113,7 +113,7 @@ To combine aerospace engineering principles, computational tools, programming, a
 
 ### Connect With Me
 
-- LinkedIn: [Your LinkedIn Profile]
+- LinkedIn: [[Your LinkedIn Profile]](https://www.linkedin.com/in/david-christensen-juco-164150450/)
 - YouTube: [AeroNovaLabs](https://www.youtube.com/@AeroNovaLabs01)
 - Website: https://aeronova-labs.com
 
