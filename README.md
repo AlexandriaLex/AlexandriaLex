@@ -119,5 +119,3 @@ To combine aerospace engineering principles, computational tools, programming, a
 
 **Engineering | Innovation | Technology | Exploration**
 - Website: https://aeronova-labs.com
-
-**Engineering | Innovation | Technology | Exploration**
