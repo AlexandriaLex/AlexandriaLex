@@ -55,8 +55,8 @@ To combine aerospace engineering principles, computational tools, programming, a
 
 ### Connect With Me
 
-- LinkedIn: [Your LinkedIn Profile]
-- YouTube: # Aerospace Engineer | Engineering & Technology
+- LinkedIn: [[Your LinkedIn Profile]](https://www.linkedin.com/in/david-christensen-juco-164150450/)
+- YouTube: [AeroNovaLabs](https://www.youtube.com/@AeroNovaLabs01) | Engineering & Technology
 
 Welcome to my GitHub profile!
 
